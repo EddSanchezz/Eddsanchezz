@@ -1,4 +1,4 @@
-## Hi there 👋 I'M Esteban Sanchez
+## Hi there 👋 I'm Esteban Sanchez
 
 <!--
 **EddSanchezz/Eddsanchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
