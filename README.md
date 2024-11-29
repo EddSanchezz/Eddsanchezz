@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 - I’m currently learning Springboot and sqL
 
-![GitHub Snake](https://github.com/EddSanchezz/EddSanchezz/blob/dist/snake.svg)
+![snake gif](https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg)
 
