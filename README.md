@@ -1,7 +1,7 @@
-## Hi there 👋 Mi nombre es Esteban Sanchez
+## Hi there 👋 My name is Esteban Sanchez
 
-- Tengo conocimienos en lenguajes como Java y Python, manejo frameworks como Django y Springboot junto a otras herramientas como SQL y conocimientos en SOLID
-- Tambien cuento con conocimientos en ingles con un certificado B2.
+- I have knowledge of languages like Java and Python, and I work with frameworks such as Django and Spring Boot, along with other tools like SQL and knowledge of SOLID principles.  
+- I also have English skills with a B2 certification.
 
 ![snake gif](https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg)
 
