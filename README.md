@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 
 - I’m currently learning Springboot and sqL
 
-- uses: Platane/snk@v3/svg-only@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.EddSanchezz }}
