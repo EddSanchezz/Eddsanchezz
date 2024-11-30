@@ -11,7 +11,13 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=dark&hide_border=true)
+<div align="center">
+## 📊 My GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=tu_usuario&theme=dark&hide_border=true)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=darkhub&no-frame=true&row=1&column=3)
+</div>
+
 
 
 ![snake gif](https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg)
