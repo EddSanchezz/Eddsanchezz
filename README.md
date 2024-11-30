@@ -21,9 +21,6 @@
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=dark&hide_border=true)
 
-  <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=dark&hide_border=true) -->
-  
-  <!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=darkhub&no-frame=true&row=1&column=3) -->
   
   
 
