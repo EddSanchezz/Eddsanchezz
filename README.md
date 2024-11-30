@@ -19,22 +19,16 @@
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
-
-  
-  
 </div>
 
 <div align="center">
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddSanchezz&layout=compact&theme=tokyonight&hide_border=true)
-
-![snake gif](https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg)
+  
+  ## 📊 GitHub Stats
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddSanchezz&layout=compact&theme=tokyonight&hide_border=true)
+  ![snake gif](https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg)
+  
 </div>
 
 
