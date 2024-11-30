@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tu_usuario&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddSanchezz&layout=compact&theme=tokyonight&hide_border=true)
 
