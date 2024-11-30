@@ -22,10 +22,12 @@
   ![GitHub Streak](https://streak-stats.demolab.com/?user=tu_usuario&theme=dark&hide_border=true)
   
   <!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=darkhub&no-frame=true&row=1&column=3) -->
+  
+  ![snake gif](https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg)
 
 </div>
 
 
 
-![snake gif](https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg)
+
 
