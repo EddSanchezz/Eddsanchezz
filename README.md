@@ -3,6 +3,8 @@
 - I have knowledge of languages like Java and Python, and I work with frameworks such as Django and Spring Boot, along with other tools like SQL and knowledge of SOLID principles.  
 - I also have English skills with a B2 certification.
 
+
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -10,12 +12,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tu_usuario&theme=dark&hide_border=true)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=darkhub&no-frame=true&row=1&column=3)
+
 </div>
 
 
