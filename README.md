@@ -11,6 +11,8 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=dark&hide_border=true)
+
 
 ![snake gif](https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg)
 
