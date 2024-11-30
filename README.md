@@ -19,7 +19,7 @@
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=tu_usuario&theme=dark&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=dark&hide_border=true)
 
   <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=dark&hide_border=true) -->
   
