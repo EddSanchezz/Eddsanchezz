@@ -1,6 +1,7 @@
 ## Hi there 👋 My name is Esteban Sanchez
 
 <div align="left">
+  
   - I have knowledge of languages like Java and Python, and I work with frameworks such as Django and Spring Boot, along with other tools like SQL and knowledge of SOLID
   principles.  
   
