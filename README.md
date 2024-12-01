@@ -28,7 +28,7 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600)
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=tokyonight&hide_border=true)
   
