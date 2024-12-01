@@ -25,6 +25,7 @@
   
   <span style="color: purple;">
   ## 📊 GitHub Stats
+    ## hola
   </span>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true)
