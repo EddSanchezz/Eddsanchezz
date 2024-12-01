@@ -24,6 +24,8 @@
 <div align="center">
   
   ## 📊 GitHub Stats
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true)
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=tokyonight&hide_border=true)
   
