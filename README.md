@@ -9,6 +9,9 @@
   
 </div>
 
+
+## 🛠️ Technologies & Tools
+
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,19 +21,6 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
-  
-</div>
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=purple"/>
-  <img src="https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=purple"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=purple"/>
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=purple"/>
-  <img src="https://img.shields.io/badge/Scripting-Python-informational?style=flat&logo=python&logoColor=white&color=purple"/>
-  <img src="https://img.shields.io/badge/Skill-WebScraping-informational?style=flat&logo=selenium&logoColor=white&color=purple"/>
 </div>
 
 
