@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Esteban Sanchez
+## Hi there 👋 My name is Edward E. Sanchez
 
 <div align="left">
   
