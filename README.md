@@ -3,12 +3,8 @@
 <div align="left">
 
   - I participated in the Python research group focused on web scraping, organized by Celuweb in mid-2024, along with other projects as a freelancer. In these projects, I have 
-  created tools for local businesses, such as a cloud-connected inventory manager and configured drivers to extract information from websites.
-  
-  - I have knowledge of languages like Java and Python, and I work with frameworks such as Django and Spring Boot, along with other tools like SQL and knowledge of SOLID
-  principles.
-  
-  - I also have English skills with a B2 certification.
+  created tools for local businesses, such as a cloud-connected inventory manager and configured drivers to extract information from websites.I have knowledge of languages like Java and Python, and I work with frameworks such as Django and Spring Boot, along with other tools like SQL and knowledge of SOLID
+  principles, I also have an English level of B1.
   
 </div>
 
