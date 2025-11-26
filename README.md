@@ -2,36 +2,30 @@
 
 <div align="left">
 
-I am a proactive developer driven by continuous improvement. While my long-term goal is to specialize in **Cybersecurity** (Offensive Hacking and Auditing), I am currently building robust software solutions.
+- I am a proactive developer seeking to improve in areas that interest me. My long-term goal is to enter the field of **Cybersecurity** and focus my efforts on learning offensive hacking and auditing.
 
-🚀 **My Experience:**
-- I participated in a Python research group focused on **Web Scraping** organized by Celuweb (2024).
-- As a freelancer, I develop tools for local businesses, including cloud-connected inventory managers and custom web scrapers.
-- I apply **SOLID principles** in my code and have an **English level of B1**.
+- My experience includes participating in a Python research group focused on web scraping (Celuweb, 2024) and working on freelance projects. I have created tools for local businesses, such as cloud-connected inventory managers and data extraction drivers.
+
+- I work with **Java (Spring Boot)** and **Python (Django)**, applying **SOLID principles**. Recently, I have expanded my stack to include **Angular, React, and Docker**. (English Level: B1).
 
 </div>
 
 ## 🛠️ Technologies & Tools
 
-### Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
+<div align="left">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
 
 ## 📊 GitHub Stats
 
