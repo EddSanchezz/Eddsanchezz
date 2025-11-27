@@ -80,7 +80,7 @@ My development philosophy is grounded in a security-first mindset. While I curre
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com/?user=EddSanchezz&amp;theme=tokyonight&amp;hide_border=true" alt="streak" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=EddSanchezz&amp;theme=tokyonight&amp;hide_border=true" alt="streak" /> -->
   
   <br/>
 
