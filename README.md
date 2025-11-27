@@ -77,13 +77,9 @@ My development philosophy is grounded in a security-first mindset. While I curre
   
   <img src="https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddSanchezz&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="langs" />
-  
-  <br/>
-  
+    
   ![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=tokyonight&hide_border=true)
   
-  <br/>
-
   <img src="https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg" alt="snake animation" />
   
 </div>
