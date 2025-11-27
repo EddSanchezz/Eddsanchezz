@@ -80,7 +80,7 @@ My development philosophy is grounded in a security-first mindset. While I curre
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com/?user=EddSanchezz&theme=tokyonight&hide_border=true" alt="streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=EddSanchezz&theme=tokyonight&hide_border=true)
   
   <br/>
 
