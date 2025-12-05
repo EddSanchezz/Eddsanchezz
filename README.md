@@ -23,7 +23,7 @@ I am a Fullstack Developer focused on building robust, scalable architectures us
 
 My development philosophy is grounded in a security-first mindset. While I currently focus on creating efficient software solutions, I am actively training in **Offensive Security**, bridging the gap between Development and Cybersecurity.
 
-* 🔭 **I’m currently working on:** Cloud-connected inventory systems and Selenium-based scraping drivers.
+* 🔭 **I’m currently working on:** Cloud-connected inventory systems, full stack development with Angular and Springboot.
 * 🌱 **I’m currently learning:** Offensive Security (CTFs), Advanced Docker patterns, and CI/CD Pipelines.
 * 🤝 **Collaboration:** Former member of the **Celuweb Research Group** (2024).
 * ⚡ **Soft Skills:** Problem-solving, SOLID principles, and **English Level B1**.
