@@ -126,8 +126,5 @@ In [RickAndMortyApi](https://github.com/jeronimoguerreromaya/RickAndMortyApi), I
 I'm always glad to talk about backend engineering, algorithms, or building useful products. Reach me at **[edwar5020@gmail.com](mailto:edwar5020@gmail.com)** or [connect on LinkedIn](https://linkedin.com/in/eddsanchezz).
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EddSanchezz/Eddsanchezz/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/EddSanchezz/Eddsanchezz/output/github-snake.svg" alt="Animated contribution graph" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/EddSanchezz/Eddsanchezz/output/github-snake-dark.svg" alt="Animated contribution graph in the dark theme" />
 </div>
