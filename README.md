@@ -12,7 +12,6 @@
     Armenia, Colombia · Systems Engineering student at Universidad del Quindío
   </p>
 
-  <a href="mailto:edwar5020@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Edward" /></a>
   <a href="https://linkedin.com/in/eddsanchezz"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <img src="https://img.shields.io/badge/EXPERIENCE-2%20Years-7AA2F7?style=for-the-badge" alt="2 years of experience" />
   <img src="https://img.shields.io/badge/ENGLISH-B2-9ECE6A?style=for-the-badge" alt="English level B2" />
