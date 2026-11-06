@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/night-city-banner.svg" alt="Night city skyline in dark navy, violet, and neon cyan" width="100%" />
+</p>
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi%2C+I%27m+Edward+S%C3%A1nchez+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+Spring+Boot;Algorithms%2C+APIs%2C+Web+%26+Mobile+Apps" alt="Hi, I'm Edward: Backend developer building algorithms, APIs, web and mobile apps" />
