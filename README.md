@@ -1,88 +1,49 @@
-<div align="center">
+<h1 align="center">Edward Sánchez</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3388FF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Edward;Fullstack+Dev+(Spring+%26+Angular);Automation+Enthusiast+(Selenium);Future+Cybersecurity+Expert" alt="Typing SVG" />
+<p align="center">
+  Backend & full-stack developer · Java (Spring Boot) · Python · Angular · Kotlin<br/>
+  Systems Engineering student at Universidad del Quindío · Armenia, Colombia
+</p>
 
-  <p>
-    <a href="mailto:edwar5020@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/eddsanchezz">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=EddSanchezz&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  </p>
-
-</div>
+<p align="center">
+  <a href="mailto:edwar5020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/eddsanchezz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open_to-internships_%26_junior_roles-2EA44F?style=flat-square" alt="Open to internships and junior roles" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+I build REST APIs and the apps around them. Most of my work is in Java with Spring Boot and Python with Flask or FastAPI, with Angular or React on the front end, and lately Kotlin with Jetpack Compose for Android. I ship with Docker, Docker Compose and GitHub Actions on Linux.
 
-I am a Fullstack Developer focused on building robust, scalable architectures using **Spring Boot** and **Angular**. I have a strong background in **Browser Automation (Selenium)**, which allows me to streamline workflows and ensure software quality.
+In 2024 I was part of the web scraping research group at Celuweb, where I wrote Python scrapers with Selenium, Scrapy and Beautiful Soup. English level: B1.
 
-My development philosophy is grounded in a security-first mindset. While I currently focus on creating efficient software solutions, I am actively training in **Offensive Security**, bridging the gap between Development and Cybersecurity.
+## Featured projects
 
-* 🔭 **I’m currently working on:** Cloud-connected inventory systems, full stack development with Angular and Springboot.
-* 🌱 **I’m currently learning:** Offensive Security (CTFs), Advanced Docker patterns, and CI/CD Pipelines.
-* 🤝 **Collaboration:** Former member of the **Celuweb Research Group** (2024).
-* ⚡ **Soft Skills:** Problem-solving, SOLID principles, and **English Level B1**.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [investment-algorithm](https://github.com/EddSanchezz/investment-algorithm) | ETL for 5+ years of prices on 23 assets, similarity (Pearson, DTW, cosine), pattern detection and a Flask API with PDF reports. 47 unit tests. | Python · Flask · Docker |
+| [servi-local](https://github.com/EddSanchezz/servi-local) | Android app that connects people in Quindío with local service providers: search, chat, posts, moderation. | Kotlin · Jetpack Compose · Hilt |
+| [comparador-textos-algoritmico](https://github.com/EddSanchezz/comparador-textos-algoritmico) | Compares scientific abstracts with six similarity measures, hierarchical clustering and KMP / Boyer-Moore / Rabin-Karp search. Team project. | Python · Streamlit · NLP |
+| [pattern_detector](https://github.com/EddSanchezz/pattern_detector) | Regex engine built from scratch with Thompson's NFA construction, exposed through a Flask API and a React UI. | Python · Flask · React |
+| [Dokploy](https://github.com/EddSanchezz/Dokploy) | Express app deployed on Ubuntu with Dokploy: multi-stage Docker image, CI and webhook-based continuous deployment. | Docker · GitHub Actions |
+| [VitalTrack](https://github.com/EddSanchezz/VitalTrack) | Health and activity tracker with user profiles, activities, wearables and PDF reports. | Angular · PrimeNG · Express |
 
----
+## Stack
 
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EddSanchezz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
+**Languages:** Java, Python, Kotlin, TypeScript, JavaScript, SQL
+**Backend:** Spring Boot, Flask, FastAPI, Express
+**Frontend & mobile:** Angular, React, Jetpack Compose
+**Data & automation:** Selenium, Scrapy, Beautiful Soup, Pandas
+**Databases:** MySQL, PostgreSQL, SQLite
+**DevOps:** Docker, Docker Compose, GitHub Actions, Dokploy, Linux
 
----
+## Currently learning
 
-### 🛠️ Technologies & Tools
+CI/CD pipelines, advanced Docker setups and offensive security through CTFs.
 
-<div align="center">
-
-  **Backend**<br/>
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-  **Frontend**<br/>
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-  **Automation & QA**<br/>
-  ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FM2C2C?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-  **Databases**<br/>
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-  **DevOps & Security Interests**<br/>
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=EddSanchezz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddSanchezz&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="langs" />
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com/?user=EddSanchezz&amp;theme=tokyonight&amp;hide_border=true" alt="streak" />
-  
-  <br/>
-
-  <img src="https://github.com/EddSanchezz/EddSanchezz/blob/output/github-snake-dark.svg" alt="snake animation" />
-  
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EddSanchezz/EddSanchezz/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/EddSanchezz/EddSanchezz/output/github-snake.svg" alt="Contribution graph snake animation" />
+  </picture>
+</p>
