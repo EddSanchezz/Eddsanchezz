@@ -4,14 +4,14 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Turning+complex+ideas+into+software;Backend+APIs+%7C+Java+%26+Spring+Boot;Algorithms%2C+web+%26+mobile+apps" alt="Turning complex ideas into backend APIs, algorithms, web and mobile apps" />
+
 
   <p>
     <strong>Backend Developer · Java / Spring Boot · Python · REST APIs</strong><br/>
     Algorithms, web experiences &amp; mobile applications<br/>
     Armenia, Colombia · Systems Engineering student at Universidad del Quindío
   </p>
-
+  
   <a href="mailto:edwar5020@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Edward" /></a>
   <a href="https://linkedin.com/in/eddsanchezz"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <img src="https://img.shields.io/badge/EXPERIENCE-2%20Years-7AA2F7?style=for-the-badge" alt="2 years of experience" />
