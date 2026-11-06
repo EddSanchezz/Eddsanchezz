@@ -48,7 +48,6 @@
 
   <rect width="1600" height="460" fill="url(#sky)"/>
   <rect width="1600" height="460" fill="url(#violetGlow)"/>
-  <rect x="72" y="57" width="860" height="193" rx="20" fill="url(#titlePanel)" stroke="#9d8bd2" stroke-opacity=".3"/>
 
   <g fill="#e6ddff">
     <circle cx="116" cy="76" r="1.5" opacity=".72"/><circle cx="228" cy="132" r="1" opacity=".6"/>
@@ -63,13 +62,6 @@
 
   <circle cx="1328" cy="112" r="45" fill="#bba5e9" opacity=".12" filter="url(#softGlow)"/>
   <circle cx="1328" cy="112" r="29" fill="url(#moon)" opacity=".88"/>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <rect x="105" y="91" width="4" height="119" rx="2" fill="#7aa2f7" filter="url(#softGlow)"/>
-    <text x="135" y="145" fill="#f4f1ff" font-size="58" font-weight="700" letter-spacing="-1.5">Edward Sánchez</text>
-    <text x="138" y="190" fill="#82dff5" font-size="22" font-weight="600" letter-spacing="2.4">BACKEND DEVELOPER</text>
-    <text x="138" y="222" fill="#d0cce4" font-size="17" font-weight="400">Java · Spring Boot · Python · REST APIs</text>
-  </g>
 
   <path d="M0 271 Q240 216 438 263 T842 250 T1234 241 T1600 260 V370 H0Z" fill="#41315e" opacity=".22"/>
   <path d="M0 298 Q280 260 540 285 T1040 279 T1600 288" fill="none" stroke="url(#horizon)" stroke-width="3" opacity=".8" filter="url(#softGlow)"/>
@@ -107,4 +99,12 @@
     <path d="M120 460l240-144M520 460l80-144M1080 460l-72-144M1490 460l-180-144" stroke="#45415f" stroke-width="1"/>
   </g>
   <rect y="448" width="1600" height="12" fill="#080b17" opacity=".72"/>
+
+  <rect x="72" y="57" width="860" height="193" rx="20" fill="url(#titlePanel)" stroke="#9d8bd2" stroke-opacity=".3"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="105" y="91" width="4" height="119" rx="2" fill="#7aa2f7" filter="url(#softGlow)"/>
+    <text x="135" y="145" fill="#f4f1ff" font-size="58" font-weight="700" letter-spacing="-1.5">Edward Sánchez</text>
+    <text x="138" y="190" fill="#82dff5" font-size="22" font-weight="600" letter-spacing="2.4">BACKEND DEVELOPER</text>
+    <text x="138" y="222" fill="#d0cce4" font-size="17" font-weight="400">Java · Spring Boot · Python · REST APIs</text>
+  </g>
 </svg>
