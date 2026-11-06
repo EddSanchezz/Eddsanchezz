@@ -1,25 +1,73 @@
-<h1 align="center">Hi, I'm Edward Sánchez 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Backend Developer · Java / Spring Boot · Python · REST APIs</strong><br/>
-  Algorithms, web experiences & mobile applications<br/>
-  Armenia, Colombia · Systems Engineering student at Universidad del Quindío
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi%2C+I%27m+Edward+S%C3%A1nchez+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+Spring+Boot;Algorithms%2C+APIs%2C+Web+%26+Mobile+Apps" alt="Hi, I'm Edward: Backend developer building algorithms, APIs, web and mobile apps" />
 
-<p align="center">
-  <a href="mailto:edwar5020@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Edward" /></a>
-  <a href="https://linkedin.com/in/eddsanchezz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Experience-4%20years-6C63FF?style=flat-square" alt="4 years of experience" />
-  <img src="https://img.shields.io/badge/English-B2-2EA44F?style=flat-square" alt="English level B2" />
-</p>
+  <p>
+    <strong>Backend Developer · Java / Spring Boot · Python · REST APIs</strong><br/>
+    Algorithms, web experiences &amp; mobile applications<br/>
+    Armenia, Colombia · Systems Engineering student at Universidad del Quindío
+  </p>
 
-<p align="center"><strong>Open to backend and software engineering opportunities</strong></p>
+  <a href="mailto:edwar5020@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Edward" /></a>
+  <a href="https://linkedin.com/in/eddsanchezz"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/EXPERIENCE-2%20Years-7AA2F7?style=for-the-badge" alt="2 years of experience" />
+  <img src="https://img.shields.io/badge/ENGLISH-B2-9ECE6A?style=for-the-badge" alt="English level B2" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=EddSanchezz&amp;label=PROFILE%20VIEWS&amp;color=7AA2F7&amp;style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
-I enjoy understanding how things work under the hood—and turning that knowledge into useful software. My main focus is building reliable backends and APIs, while my projects also take me into algorithm design, web interfaces, and Android development.
+## 👨‍💻 About me
 
-In 2024, I was part of Celuweb's web-scraping research group, where I built Python scrapers with Selenium, Scrapy, and Beautiful Soup.
+I enjoy understanding how things work under the hood—and turning that knowledge into useful software. My main focus is building reliable backends and APIs, while my projects also explore algorithm design, web interfaces, and Android development.
+
+In 2024, I was part of Celuweb's web-scraping research group, where I built Python scrapers with Selenium, Scrapy, and Beautiful Soup. I'm open to backend and software engineering opportunities.
+
+## 🏆 GitHub achievements
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=EddSanchezz&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=7" alt="GitHub profile trophies" />
+</div>
+
+## 🛠️ Technologies &amp; tools
+
+<div align="center">
+
+  <strong>Backend &amp; languages</strong><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
+  <br/><br/>
+
+  <strong>Algorithms &amp; problem solving</strong><br/>
+  <img src="https://img.shields.io/badge/DTW-Time%20Series-565F89?style=for-the-badge" alt="Dynamic Time Warping" />
+  <img src="https://img.shields.io/badge/NFA-Regex%20Engine-7AA2F7?style=for-the-badge" alt="NFA and regex engines" />
+  <img src="https://img.shields.io/badge/Text%20Similarity-NLP-BB9AF7?style=for-the-badge" alt="Text similarity and NLP" />
+  <img src="https://img.shields.io/badge/Clustering-Algorithms-9ECE6A?style=for-the-badge" alt="Clustering algorithms" />
+  <br/><br/>
+
+  <strong>Frontend &amp; mobile</strong><br/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=white" alt="Jetpack Compose" />
+  <br/><br/>
+
+  <strong>Data &amp; delivery</strong><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+
+</div>
 
 ## 🚀 Featured work
 
@@ -44,7 +92,7 @@ A full-stack health and activity tracker with user and health-profile management
 An Android app concept connecting people in Quindío with local services. I worked on authentication and session flows, profiles, notifications, and navigation/UI fixes.
 
 - **Stack:** Kotlin · Jetpack Compose · Hilt
-- **Project status:** Uses in-memory demo data; remote persistence and backend integration are not yet implemented.
+- **Status:** Uses in-memory demo data; remote persistence and backend integration are not yet implemented.
 
 ### 🔎 [Scientific Abstract Analyzer](https://github.com/EddSanchezz/comparador-textos-algoritmico) · *Team project*
 Analyzes scientific abstracts from PDFs using classic and embedding-based similarity, hierarchical clustering, and exact string-search algorithms.
@@ -56,24 +104,26 @@ Analyzes scientific abstracts from PDFs using classic and embedding-based simila
 
 In [RickAndMortyApi](https://github.com/jeronimoguerreromaya/RickAndMortyApi), I contributed to a layered Android architecture with Hilt, domain models, mappers, and tests, and fixed rotation and empty-state issues.
 
-## 🛠️ Toolbox
+## 📊 GitHub stats
 
-| Area | Technologies |
-| --- | --- |
-| **Backend & APIs** | Java · Spring Boot · Python · Flask · FastAPI · Express · REST |
-| **Algorithms & data** | DTW · NFA / regex engines · text similarity · clustering · Pandas · Selenium · Scrapy |
-| **Web & frontend** | Angular · React · TypeScript · JavaScript · PrimeNG · HTML · CSS |
-| **Mobile** | Kotlin · Jetpack Compose · Hilt |
-| **Databases** | PostgreSQL · MySQL · SQLite |
-| **Tools & delivery** | Docker · Docker Compose · GitHub Actions · Linux · Git |
+<div align="center">
+  <a href="https://github.com/EddSanchezz">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=EddSanchezz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=3600" alt="Edward's GitHub statistics" />
+  </a>
+  <a href="https://github.com/EddSanchezz">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EddSanchezz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages in public repositories" />
+  </a>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=EddSanchezz&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 ## 📬 Let's connect
 
 I'm always glad to talk about backend engineering, algorithms, or building useful products. Reach me at **[edwar5020@gmail.com](mailto:edwar5020@gmail.com)** or [connect on LinkedIn](https://linkedin.com/in/eddsanchezz).
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EddSanchezz/Eddsanchezz/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/EddSanchezz/Eddsanchezz/output/github-snake.svg" alt="Animated contribution graph" />
   </picture>
-</p>
+</div>
